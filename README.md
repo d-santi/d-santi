@@ -2,7 +2,8 @@
 
 <h3 align="center">Fullstack Developer | Payment Integrations Specialist 🌎</h3>
 
-<h4 align="center">Previous Account - <a href="[dVera17](https://github.com/dVera17)" target="_blank"></a></h4>
+<h4 align="center">Previous Account - <a href="https://github.com/dVera17" target="_blank">dVera17</a></h4>
+
 ---
 
 🚀 I'm a passionate developer focused on building scalable backend services, powerful APIs, and intuitive frontend experiences.
@@ -58,7 +59,3 @@
 💼 Dozens of hours invested in private repositories  
 🔐 Many contributions were made in closed-source/internal company projects  
 🧾 Includes work on fintech APIs, payment integrations, and documentation
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dvera17&layout=compact&theme=dark&hide_border=true&border_radius=10" height="200" />
-</div>
